@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1055478745040",
+    "firebase_url": "https://ewastemanager19.firebaseio.com",
+    "project_id": "ewastemanager19",
+    "storage_bucket": "ewastemanager19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055478745040:android:136fd3ddd3d9a553",
+        "android_client_info": {
+          "package_name": "com.example.ewastemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055478745040-rdchfm2cec4fg1t3gu1cgqsml2k90jtn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ewastemanager",
+            "certificate_hash": "82b43cbc4203af249ec89e1549d2301e11cbca25"
+          }
+        },
+        {
+          "client_id": "1055478745040-0r5cv604v5b6t7k96p5tbp3jhq3cqsoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIuRoZzA6U8ORECpwHjvh-5zz-_XbUFzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055478745040-0r5cv604v5b6t7k96p5tbp3jhq3cqsoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
